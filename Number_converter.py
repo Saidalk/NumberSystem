@@ -1,11 +1,11 @@
 
 def main():
-    print("This application will be converting Decimal numbers into Binary")
+    print("This application will be converting intgers into Binary")
 
-    decimal = valid()
+    integr = valid()
 
     print("This is your number in binary:")
-    Binary_conversion(decimal)
+    Binary_conversion(integr)
 
 
 def valid():
